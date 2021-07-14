@@ -1,0 +1,12 @@
+.h1{
+    font-size: 2rem;
+    color: Tomato;
+    text-align: center;
+}
+
+.p1{
+        font-size: 1.3ren;
+        line-height: 2;
+        border: 1px solid #000;
+        padding: 25px 50px;
+}
